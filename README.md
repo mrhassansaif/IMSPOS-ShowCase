@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://inventory-management-system-beryl-ten.vercel.app/">
+  <a href="https://imspos.vercel.app//">
     <strong>🚀 Live Demo</strong>
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -68,7 +68,7 @@ The product was designed to be **flexible rather than industry-specific**, makin
 
 ### Try IMS-POS
 
-**[Open the Live Application →](https://inventory-management-system-beryl-ten.vercel.app/)**
+**[Open the Live Application →](https://imspos.vercel.app/)**
 
 > The live deployment is provided as a product showcase and demonstration environment.
 
